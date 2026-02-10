@@ -5,7 +5,7 @@ Software Engineer
                                                
 - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/de/3/31/Bosch-logotype.svg" height="24">](https://www.bosch.com/de/produkte-und-services/mobilitaet/ )
 
-- 🌱 I’m currently learning DSA and integrating AI into my workflow
+- 🌱 I’m currently learning advanced DSA and integrating AI into my workflow
 
 - 💬 Ask me about **Full stack web applications**
 
