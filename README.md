@@ -2,10 +2,9 @@
 
 Software Engineer
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZkZHR0MW0zZGU4NHJxcGNrNzd3dXk4eWdzcWg4bW51emswbnUzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-                                               
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/de/3/31/Bosch-logotype.svg" height="24">](https://www.bosch.com/de/produkte-und-services/mobilitaet/ )
+                                    
 
-- 🌱 I’m currently learning advanced DSA and integrating AI into my workflow
+- 🌱 I’m currently learning Cloud & DevOps and integrating AI into my workflow
 
 - 💬 Ask me about **Full stack web applications**
 
